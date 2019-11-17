@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Playing around with Read the Docs and MkDocs
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+This is just to see what I can get done with [Read the Docs](https://readthedocs.org) and [mkdocs.org](https://mkdocs.org)
 
-## Commands
+Following [these instructions](https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Aims
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Demonstrate markdown documentation idea via MKDocs
+* Demonstrate auto-building markdown to html via ReadTheDocs
+* Demonstrate hosting of built html via ReadTheDocs
+* Demonstrate version control via GitHub
+* Investigate other features (notifications, etc)
