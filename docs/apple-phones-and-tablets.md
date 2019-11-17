@@ -31,7 +31,7 @@ Pricing of iPhones can range from £299 to £1150 depending on screen size, stor
 iPads come in various forms. Models like the iPad mini, iPad Air 2 and different models of the iPad Pro are available. These different iPads have different hardware specifications, different screen technology, different ways and means of securing the device and audio quality. Pricing of iPads range from £200 to £950 depending on all of the above aspects.
 
 ## Further Resources: 
-* [Apple accessibility](https://www.apple.com/uk/accessibility/)
+* <a href="https://www.apple.com/uk/accessibility/" title="A random title tag">Apple accessibility</a>
 * [AppleVis](https://www.applevis.com/)
 * [Hadley instructional resources](https://www.hadley.edu/instructionalvideos.asp#iFocus)
 * [VitalTech](https://www.vitaltech.org.uk/theme/smartphone-screen-readers/)
